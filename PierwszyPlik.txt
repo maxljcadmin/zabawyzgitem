@@ -1,5 +1,3 @@
 To jest mój pierwszy plik
 
 To są zmiany w treści.
-
-Kolejne zmiany.
